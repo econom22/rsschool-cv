@@ -27,8 +27,14 @@ const func = (num) => {
 ## Work expirience
 * __October 2020 - Present__  
 [Sysytem-analist DWH] [GlowByte Consulting]
+    * Design of data model  
+    * Design of improvements of DWH  
+    * Data model refactorin
 * __May 2017 - October 2020__  
 [Sysytem-analist] [Top Soft IT]
+    * Developing ERP-system(reports and loaders)
+    * Design of improvements of ERP-system
+    * Support ERP-system
 ## Education
 * __Academy of Public Administration under the Aegis of the President of the Republic of Belarus__  
 Bachelor's degree, Economist-manager of information systems
