@@ -13,7 +13,7 @@ I've 4 years expirence as system analist, but now I want to try myself in progra
     * VIP
 * __Version Control System__
     * SVN
-    * Stach 
+    * Stach
 ## Code samples
 `function(12);`
 ```
@@ -27,8 +27,8 @@ const func = (num) => {
 ## Work expirience
 * __October 2020 - Present__  
 [Sysytem-analist DWH] [GlowByte Consulting]
-    * Design of data model  
-    * Design of improvements of DWH  
+    * Design of data model
+    * Design of improvements of DWH
     * Data model refactorin
 * __May 2017 - October 2020__  
 [Sysytem-analist] [Top Soft IT]
